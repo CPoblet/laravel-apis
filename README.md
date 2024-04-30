@@ -9,7 +9,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-proyecto-laravel.git
+    git clone https://github.com/CPoblet/laravel-apis
     ```
 
 2. Navega al directorio del proyecto:
